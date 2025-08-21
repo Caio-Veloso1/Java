@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Exercicio 1/Exercicio 1.iml" filepath="$PROJECT_DIR$/Exercicio 1/Exercicio 1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercicio 3/Exercicio 3.iml" filepath="$PROJECT_DIR$/Exercicio 3/Exercicio 3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Heranca e polimorfismo/Heranca e polimorfismo.iml" filepath="$PROJECT_DIR$/Heranca e polimorfismo/Heranca e polimorfismo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Interface funcional/Interface funcional.iml" filepath="$PROJECT_DIR$/Interface funcional/Interface funcional.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Interfaces e Lambda/Interfaces e Lambda.iml" filepath="$PROJECT_DIR$/Interfaces e Lambda/Interfaces e Lambda.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Java.iml" filepath="$PROJECT_DIR$/.idea/Java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Map/Map.iml" filepath="$PROJECT_DIR$/Map/Map.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StringBuilder-StringBuffer/StringBuilder-StringBuffer.iml" filepath="$PROJECT_DIR$/StringBuilder-StringBuffer/StringBuilder-StringBuffer.iml" />
+    </modules>
+  </component>
+</project>
